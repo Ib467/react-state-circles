@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5c7af38653a402af565cd130c09a380",
+    "revision": "dc3750ade6449295ff3320c65ba98141",
     "url": "/react-state-circles/index.html"
   },
   {
-    "revision": "a7acd48261f363098985",
+    "revision": "d2e9d7e1fe4bbdef11b5",
     "url": "/react-state-circles/static/css/main.35a7b6bb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-state-circles/static/js/2.e565c775.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a7acd48261f363098985",
-    "url": "/react-state-circles/static/js/main.25ed1913.chunk.js"
+    "revision": "d2e9d7e1fe4bbdef11b5",
+    "url": "/react-state-circles/static/js/main.cc522090.chunk.js"
   },
   {
     "revision": "c1c44646e034f0f67420",
