@@ -12,6 +12,7 @@ function Circles() {
         };
 
         setBoxes([...boxes, box])
+        setColor("");
     }
 
 
